@@ -1,2 +1,0 @@
-# Lodash
-Created with CodeSandbox
